@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "420-14B-FX-A24-TP2", "420-14B-FX-A24-TP2\420-14B-FX-A24-TP2.csproj", "{B4C78464-8F9A-4FA7-855E-860EE3636B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "420-14B-FX-A24-TP2-Test", "420-14B-FX-A24-TP2-Test\420-14B-FX-A24-TP2-Test.csproj", "{D2344C58-3918-4296-A21D-57CCDE36B7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C78464-8F9A-4FA7-855E-860EE3636B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C78464-8F9A-4FA7-855E-860EE3636B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C78464-8F9A-4FA7-855E-860EE3636B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C78464-8F9A-4FA7-855E-860EE3636B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2344C58-3918-4296-A21D-57CCDE36B7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2344C58-3918-4296-A21D-57CCDE36B7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2344C58-3918-4296-A21D-57CCDE36B7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2344C58-3918-4296-A21D-57CCDE36B7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512AA198-6A28-4714-8BAF-5E47C3FDF027}
+	EndGlobalSection
+EndGlobal

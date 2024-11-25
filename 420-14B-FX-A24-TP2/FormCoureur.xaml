@@ -1,0 +1,46 @@
+﻿<Window x:Class="_420_14B_FX_A24_TP2.FormCoureur"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_420_14B_FX_A24_TP2"
+        mc:Ignorable="d"
+        Title="Fichier de coureur" Height="450" Width="450" Loaded="Window_Loaded">
+    <StackPanel Margin="15">
+        <TextBlock x:Name="tbTitreCoureur" Text="Ajouter un coureur" TextAlignment="Center" Foreground="Black" FontWeight="Bold"  FontSize="25"></TextBlock>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="No.dossard" Width="80"></Label>
+            <TextBox x:Name="txtNumero" Width="100"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Nom" Width="80"></Label>
+            <TextBox x:Name="txtNom" Width="300"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Prenom" Width="80"></Label>
+            <TextBox x:Name="txtPrenom" Width="300"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Ville" Width="80"></Label>
+            <TextBox x:Name="txtVille" Width="300"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Province" Width="80"></Label>
+            <ComboBox x:Name="cBoxProvince" Width="300" ></ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Catégorie" Width="80"></Label>
+            <ComboBox x:Name="cBoxCategorie" Width="300" ></ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Label Content="Temps" Width="80"></Label>
+            <xctk:TimeSpanUpDown x:Name="tsudTemps" Width="100" Height="25"  ShowDays="False" Minimum="0"></xctk:TimeSpanUpDown>
+        </StackPanel>
+        <CheckBox Width="295" x:Name="chkAbandon" Checked="chkAbandon_Checked" Unchecked="chkAbandon_Checked">Abandon</CheckBox>
+        <StackPanel Margin="8" Orientation="Horizontal" Width="300">
+            <Button x:Name="btnAjouModifSupCoureur" Content="Ajouter" Width="137" Margin="5" Click="btnAjouModifSupCoureur_Click"></Button>
+            <Button x:Name="btnAnnuler" Content="Annuler" Width="138" Margin="5" Click="btnAnnuler_Click"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

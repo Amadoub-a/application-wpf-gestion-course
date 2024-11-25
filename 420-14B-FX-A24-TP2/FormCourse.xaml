@@ -1,0 +1,81 @@
+﻿<Window x:Class="_420_14B_FX_A24_TP2.FormCourse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_420_14B_FX_A24_TP2"
+        mc:Ignorable="d"
+        Title="Course" Height="500" Width="820" Loaded="Window_Loaded">
+    <StackPanel Margin="10">
+        <TextBlock x:Name="tbTitreCourse" Text="Ajouter une course" TextAlignment="Center" FontSize="25" Foreground="Black" FontWeight="Bold"></TextBlock>
+        <TabControl>
+            <TabItem Header="Information sur la course">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Nom" Width="70"></Label>
+                            <TextBox x:Name="txtNom" Width="300"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Ville" Width="70"></Label>
+                            <TextBox x:Name="txtVille" Width="300"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Province" Width="70"></Label>
+                            <ComboBox x:Name="cBoxProvince" Width="250"></ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Date" Width="70"></Label>
+                            <DatePicker Name="dtpDateCourse"  Width="200"></DatePicker>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Type" Width="70"></Label>
+                            <ComboBox x:Name="cBoxType" Width="250"></ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Distance" Width="70"></Label>
+                            <TextBox x:Name="txtDistance" Width="100"></TextBox>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical" Margin="30,0">
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Nbr. participants" Width="150"></Label>
+                            <TextBox x:Name="txtNbParticipant" Width="100" IsEnabled="False"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0,5">
+                            <Label Content="Temps de course moyens" Width="150"></Label>
+                            <xctk:TimeSpanUpDown x:Name="tsudTempsMoyens" Width="100"  ShowDays="False" Minimum="0" IsEnabled="False"></xctk:TimeSpanUpDown>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Coureurs" x:Name="tbItemCoureurs" HorizontalAlignment="Left" Width="60">
+                <StackPanel>
+                    <StackPanel Margin="15">
+                        <StackPanel Orientation="Horizontal" Margin="15">
+                            <TextBlock  Text="DOSSARD" FontWeight="Bold"  HorizontalAlignment="Left"  Margin="0,0,40,0"/>
+                            <TextBlock  Text="NOM" FontWeight="Bold"  HorizontalAlignment="Left" Margin="0,0,230,0" />
+                            <TextBlock  Text="CATÉGORIE" FontWeight="Bold" />
+                            <TextBlock  Text="TEMPS" FontWeight="Bold" Margin="50,0,55,0"/>
+                            <TextBlock  Text="RANG" FontWeight="Bold"  HorizontalAlignment="Left" Margin="70,0,55,0" />
+                        </StackPanel>
+                        <StackPanel Height="250">
+                            <ListBox x:Name="lstCoureurs" Width="715" Height="200" Margin="10,0,10,0" HorizontalAlignment="Left" FontFamily="Courier New"/>
+                            <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Left">
+                                <Button x:Name="btnAjouCoureur" Content="Ajouter" Width="100" Margin="10" Click="btnAjouCoureur_Click"></Button>
+                                <Button x:Name="btnModifCoureur" Content="Modifier" Width="100" Margin="10" Click="btnModifCoureur_Click"></Button>
+                                <Button x:Name="btnSupprCoureur" Content="Supprimer" Width="100" Margin="10" Click="btnSupprCoureur_Click"></Button>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+        <StackPanel Margin="10" Orientation="Horizontal" HorizontalAlignment="Center" Height="49">
+            <Button x:Name="btnAjouModifSupprCourse" Content="Ajouter" Width="100" Margin="10" Click="btnAjouModifSupprCourse_Click"></Button>
+            <Button x:Name="btnAnnuler" Width="100" Margin="10" Click="btnAnnuler_Click">Annuler</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

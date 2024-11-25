@@ -1,0 +1,300 @@
+IdCourse;dossard;nom;prenom;ville;province;categorie;temps;abandon
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;12;Lavoie;Sophie;Corner Brook;10;7;2:39:50;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;20;Lefebvre;Camille;Moncton;4;5;3:0:11;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;21;Tremblay;Martin;St. John's;10;7;3:5:16;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;22;Gauthier;Sarah;Dartmouth;5;6;3:11:33;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;14;Bouchard;Olivier;Dawson City;12;0;3:30:32;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;13;Bergeron;Thomas;Prince Albert;9;3;3:51:2;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;19;Bergeron;Martin;Saint John;4;6;4:0:41;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;9;Pelletier;Charles;Red Deer;0;0;4:7:38;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;8;Martel;Laura;Regina;9;6;4:8:41;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;2;Girard;Samuel;Trois-Rivières;8;8;4:27:43;False
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;15;Tremblay;Sophie;Lethbridge;0;9;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;10;Roy;Laura;Toronto;7;7;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;11;Gauthier;Antoine;Rankin Inlet;6;1;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;5;Beaulieu;François;Charlottetown;2;4;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;18;Cloutier;Camille;Ottawa;7;4;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;3;Tremblay;Olivier;Steinbach;3;9;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;4;Morin;Camille;Gander;10;6;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;7;Bouchard;Isabelle;Miramichi;4;6;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;1;Gagnon;Isabelle;Hay River;11;7;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;6;Bouchard;Émilie;Iqaluit;6;2;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;16;Bergeron;Martin;Calgary;0;4;00:00:00;True
+e7d91ff9-9e79-4b33-a4ab-8a83742bcb71;17;Girard;Antoine;London;7;9;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;1;Fortin;Catherine;Calgary;0;3;0:45:5;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;6;Tremblay;François;Vancouver;1;8;0:48:34;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;7;Martel;Émilie;Miramichi;4;6;0:53:22;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;20;Morin;Sarah;Steinbach;3;5;0:54:14;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;29;Tremblay;Antoine;Iqaluit;6;5;0:57:59;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;8;Lavoie;Gabriel;Grand Falls-Windsor;10;8;0:59:12;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;28;Girard;Martin;Gander;10;1;0:59:34;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;13;Roy;Gabriel;Rankin Inlet;6;4;1:0:31;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;14;Lavoie;Martin;Saskatoon;9;8;1:3:20;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;5;Cloutier;Émilie;Hamilton;7;4;1:4:9;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;24;Roy;Martin;Dawson City;12;7;1:5:25;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;18;Martel;Maxime;Cambridge Bay;6;0;1:7:29;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;15;Robitaille;Maxime;Inuvik;11;3;1:11:22;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;22;Girard;Camille;Haines Junction;12;0;1:12:44;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;12;Cloutier;Simon;Trois-Rivières;8;6;1:14:48;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;30;Lefebvre;François;Québec;8;7;1:16:33;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;33;Martel;Simon;Winnipeg;3;6;1:21:28;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;27;Tremblay;Marie;Summerside;2;6;1:24:46;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;3;Bergeron;Sophie;Sherbrooke;8;2;1:26:20;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;23;Gagnon;Marie;Sydney;5;1;1:26:48;False
+49675906-37c9-486a-a802-8bdc8bf9ab97;9;Pelletier;Alexandre;Toronto;7;3;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;4;Lévesque;Samuel;Brandon;3;6;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;26;Cloutier;Émilie;Whitehorse;12;5;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;16;Tremblay;Sophie;Arviat;6;5;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;19;Martel;Jean;Regina;9;3;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;32;Roy;Maxime;Truro;5;4;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;21;Roy;Catherine;Ottawa;7;2;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;11;Bouchard;Jean;Dartmouth;5;2;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;2;Pelletier;Martin;Kelowna;1;0;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;31;Martel;Samuel;Surrey;1;9;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;25;Morin;Laura;Fredericton;4;2;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;17;Dubois;Jean;Victoria;1;1;00:00:00;True
+49675906-37c9-486a-a802-8bdc8bf9ab97;10;Martel;Maxime;Red Deer;0;5;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;31;Côté;Émilie;Moncton;4;9;0:32:52;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;2;Gauthier;Laura;Brandon;3;8;0:33:46;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;24;Côté;Sophie;Kelowna;1;8;0:34:58;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;32;Roy;Sophie;Cornwall;2;1;0:37:1;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;6;Lavoie;Émilie;Toronto;7;3;0:40:28;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;11;Lévesque;Olivier;Victoria;1;2;0:41:38;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;4;Tremblay;Sarah;Sherbrooke;8;6;0:43:55;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;10;Cloutier;Marie;Hamilton;7;1;0:44:44;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;18;Bouchard;Charles;Gander;10;1;0:45:8;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;36;Bouchard;Isabelle;Saint John;4;2;0:45:28;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;29;Lévesque;Olivier;Summerside;2;3;0:46:36;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;17;Beaulieu;Samuel;Thompson;3;7;0:46:57;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;21;Lefebvre;Sophie;Grand Falls-Windsor;10;4;0:53:56;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;9;Martel;Sarah;Prince Albert;9;5;0:54:2;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;27;Beaulieu;Jean;Steinbach;3;6;0:55:5;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;13;Grenier;Charles;Hay River;11;7;0:56:20;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;8;Gauthier;François;Québec;8;0;0:56:36;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;16;Tremblay;Sophie;Winnipeg;3;1;0:59:35;False
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;28;Fortin;Charles;Haines Junction;12;4;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;7;Cloutier;Émilie;Watson Lake;12;6;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;26;Lévesque;Antoine;Montréal;8;3;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;19;Bouchard;Sarah;Yellowknife;11;4;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;30;Lavoie;Thomas;Fort Smith;11;5;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;14;Girard;Maxime;Cambridge Bay;6;3;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;1;Beaulieu;Camille;London;7;4;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;15;Lefebvre;Alexandre;Truro;5;9;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;25;Robitaille;Gabriel;Calgary;0;0;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;33;Lavoie;Samuel;Corner Brook;10;9;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;5;Gauthier;Martin;Halifax;5;3;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;34;Girard;Isabelle;Stratford;2;6;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;3;Morin;Antoine;Charlottetown;2;0;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;35;Martel;Émilie;Iqaluit;6;6;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;22;Gauthier;Sarah;Trois-Rivières;8;1;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;12;Cloutier;Antoine;Fredericton;4;5;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;23;Cloutier;Marie;Surrey;1;4;00:00:00;True
+3f1bd8a1-26ed-4013-93a1-85f088eeb05b;20;Roy;Olivier;Arviat;6;4;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;15;Dubois;Thomas;Sherbrooke;8;0;1:39:53;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;11;Morin;Camille;Watson Lake;12;4;1:40:34;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;29;Martel;Jean;Regina;9;6;1:43:50;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;27;Cloutier;Jean;Cambridge Bay;6;7;1:44:58;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;25;Lévesque;Antoine;Arviat;6;9;2:8:0;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;3;Robitaille;Samuel;Vancouver;1;6;2:13:17;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;20;Côté;François;Grand Falls-Windsor;10;8;2:18:29;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;4;Côté;Maxime;Toronto;7;0;2:26:14;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;13;Grenier;Maxime;Moose Jaw;9;7;2:31:36;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;5;Cloutier;Camille;Corner Brook;10;7;2:33:27;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;31;Pelletier;Marie;Dartmouth;5;4;2:47:31;False
+b45fdd8d-2422-4039-85aa-a799e00f8e41;24;Morin;Catherine;Rankin Inlet;6;9;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;16;Pelletier;Marie;Miramichi;4;4;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;10;Morin;Jean;Québec;8;1;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;26;Roy;Alexandre;Calgary;0;8;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;12;Fortin;Antoine;Stratford;2;1;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;6;Roy;Catherine;Haines Junction;12;8;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;17;Pelletier;Émilie;Victoria;1;4;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;22;Bergeron;Charles;Inuvik;11;7;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;9;Bouchard;François;London;7;8;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;18;Martel;Jean;Hamilton;7;5;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;14;Morin;Laura;Gander;10;9;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;21;Fortin;François;Sydney;5;0;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;2;Fortin;Olivier;Halifax;5;6;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;30;Bouchard;Olivier;Yellowknife;11;3;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;23;Cloutier;Gabriel;Cornwall;2;5;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;8;Côté;Martin;Red Deer;0;6;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;28;Morin;Gabriel;Kelowna;1;8;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;7;Robitaille;Alexandre;Steinbach;3;6;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;19;Côté;Maxime;St. John's;10;8;00:00:00;True
+b45fdd8d-2422-4039-85aa-a799e00f8e41;1;Bouchard;Simon;Edmonton;0;5;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;2;Roy;Alexandre;Winnipeg;3;8;1:32:33;False
+c9394db1-6899-438b-85b6-5f312920d69e;7;Pelletier;Camille;Surrey;1;2;1:38:33;False
+c9394db1-6899-438b-85b6-5f312920d69e;19;Dubois;Olivier;Gander;10;5;1:58:22;False
+c9394db1-6899-438b-85b6-5f312920d69e;8;Gauthier;Marie;Cornwall;2;0;1:58:49;False
+c9394db1-6899-438b-85b6-5f312920d69e;16;Gagnon;Thomas;Hamilton;7;5;2:12:47;False
+c9394db1-6899-438b-85b6-5f312920d69e;12;Grenier;Thomas;Watson Lake;12;0;2:25:3;False
+c9394db1-6899-438b-85b6-5f312920d69e;13;Gauthier;Sophie;Sydney;5;5;2:38:53;False
+c9394db1-6899-438b-85b6-5f312920d69e;11;Tremblay;Sophie;Rankin Inlet;6;8;2:39:45;False
+c9394db1-6899-438b-85b6-5f312920d69e;3;Côté;Sophie;Montréal;8;7;2:45:26;False
+c9394db1-6899-438b-85b6-5f312920d69e;10;Beaulieu;Samuel;Fredericton;4;4;2:47:10;False
+c9394db1-6899-438b-85b6-5f312920d69e;4;Morin;Maxime;Halifax;5;0;2:47:55;False
+c9394db1-6899-438b-85b6-5f312920d69e;21;Gauthier;Émilie;Truro;5;7;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;5;Fortin;Marie;Moncton;4;7;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;22;Roy;Sarah;Hay River;11;8;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;20;Bouchard;Antoine;Moose Jaw;9;8;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;1;Martel;Charles;Victoria;1;3;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;23;Gauthier;Camille;Kelowna;1;4;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;9;Fortin;Olivier;Saskatoon;9;3;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;14;Fortin;Charles;Yellowknife;11;9;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;6;Martel;Martin;Québec;8;2;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;17;Robitaille;Antoine;Cambridge Bay;6;7;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;18;Côté;Olivier;Thompson;3;9;00:00:00;True
+c9394db1-6899-438b-85b6-5f312920d69e;15;Tremblay;Catherine;Steinbach;3;3;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;19;Bergeron;Martin;Inuvik;11;4;2:33:46;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;5;Bergeron;Charles;St. John's;10;8;3:3:6;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;18;Côté;Sophie;Gander;10;1;3:29:39;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;16;Roy;Simon;Ottawa;7;2;3:34:42;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;1;Robitaille;Catherine;Kelowna;1;2;3:53:4;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;25;Beaulieu;Maxime;Vancouver;1;1;3:56:58;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;12;Beaulieu;Jean;Montréal;8;4;4:9:0;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;9;Girard;Maxime;Prince Albert;9;0;4:14:10;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;32;Fortin;Maxime;Victoria;1;2;4:23:7;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;27;Dubois;Simon;Trois-Rivières;8;6;4:26:55;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;3;Fortin;Martin;London;7;2;4:51:1;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;10;Fortin;Sarah;Toronto;7;1;4:54:0;False
+93e72c27-8a1f-492a-90d2-06e98f95147e;31;Lévesque;Alexandre;Surrey;1;6;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;26;Cloutier;François;Whitehorse;12;4;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;13;Grenier;Thomas;Arviat;6;2;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;22;Beaulieu;François;Stratford;2;0;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;6;Fortin;Sophie;Edmonton;0;8;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;30;Bergeron;Samuel;Saskatoon;9;1;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;7;Bouchard;Alexandre;Steinbach;3;6;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;15;Dubois;Émilie;Moose Jaw;9;7;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;11;Côté;Thomas;Cambridge Bay;6;8;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;24;Lévesque;Charles;Sydney;5;7;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;29;Lefebvre;Martin;Québec;8;9;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;4;Lévesque;Laura;Saint John;4;4;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;21;Roy;Olivier;Dawson City;12;4;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;2;Robitaille;Isabelle;Haines Junction;12;0;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;8;Beaulieu;Simon;Charlottetown;2;9;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;23;Bouchard;Alexandre;Sherbrooke;8;7;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;14;Morin;Martin;Truro;5;7;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;28;Dubois;Samuel;Thompson;3;3;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;20;Côté;Samuel;Halifax;5;8;00:00:00;True
+93e72c27-8a1f-492a-90d2-06e98f95147e;17;Dubois;Camille;Red Deer;0;8;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;10;Tremblay;Charles;Saint John;4;6;2:32:34;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;28;Beaulieu;Jean;Gander;10;4;2:48:13;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;31;Grenier;Samuel;Prince Albert;9;8;2:49:42;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;5;Gagnon;Camille;Hay River;11;7;2:53:1;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;33;Robitaille;Olivier;Trois-Rivières;8;6;2:56:7;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;16;Lévesque;Marie;Charlottetown;2;1;2:57:57;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;35;Lefebvre;Charles;Watson Lake;12;2;3:8:51;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;24;Martel;Gabriel;Saskatoon;9;4;3:11:40;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;27;Beaulieu;Olivier;St. John's;10;2;3:12:3;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;23;Morin;Sarah;Stratford;2;6;3:19:43;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;6;Robitaille;Martin;Haines Junction;12;6;3:26:12;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;18;Fortin;Martin;Thompson;3;0;3:32:43;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;12;Girard;Catherine;Iqaluit;6;4;3:34:4;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;2;Beaulieu;Sarah;Kelowna;1;1;3:50:35;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;25;Lefebvre;François;Fredericton;4;8;4:3:20;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;14;Gagnon;Thomas;London;7;9;4:15:58;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;26;Grenier;Charles;Steinbach;3;4;4:16:49;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;11;Morin;Thomas;Dawson City;12;7;4:40:49;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;22;Lévesque;Olivier;Brandon;3;6;4:43:2;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;30;Dubois;Isabelle;Québec;8;3;4:57:33;False
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;32;Beaulieu;Maxime;Toronto;7;9;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;29;Lavoie;Laura;Summerside;2;1;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;19;Grenier;Samuel;Surrey;1;1;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;7;Robitaille;Émilie;Miramichi;4;4;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;9;Bergeron;Charles;Whitehorse;12;7;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;8;Côté;Jean;Moose Jaw;9;6;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;1;Bergeron;Sarah;Ottawa;7;3;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;20;Tremblay;Émilie;Arviat;6;7;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;21;Bergeron;Isabelle;Lethbridge;0;5;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;13;Cloutier;Simon;Edmonton;0;1;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;34;Fortin;Antoine;Regina;9;3;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;17;Bergeron;Camille;Winnipeg;3;9;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;3;Morin;Laura;Victoria;1;8;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;15;Cloutier;Jean;Cambridge Bay;6;1;00:00:00;True
+0de0a276-5016-4e2d-b1cf-fd775f30ce12;4;Morin;Sophie;Cornwall;2;3;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;15;Robitaille;Simon;Iqaluit;6;9;0:45:26;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;6;Martel;Gabriel;Stratford;2;8;0:49:50;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;18;Grenier;Simon;Toronto;7;2;0:50:13;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;9;Pelletier;Laura;Hamilton;7;8;0:51:23;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;7;Roy;Olivier;Inuvik;11;9;1:3:42;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;5;Grenier;Jean;Rankin Inlet;6;5;1:4:51;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;20;Dubois;Jean;Sydney;5;2;1:8:11;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;2;Lefebvre;Simon;Moncton;4;9;1:14:2;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;1;Gagnon;Isabelle;Grand Falls-Windsor;10;8;1:14:21;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;23;Robitaille;Thomas;Trois-Rivières;8;2;1:19:51;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;13;Grenier;Thomas;Fort Smith;11;3;1:28:26;False
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;17;Lavoie;Antoine;Dartmouth;5;3;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;11;Lefebvre;Émilie;Montréal;8;8;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;3;Dubois;Marie;Winnipeg;3;3;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;12;Lavoie;Sophie;Surrey;1;2;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;10;Bergeron;Marie;Steinbach;3;7;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;14;Fortin;Émilie;Fredericton;4;7;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;19;Gagnon;Émilie;Edmonton;0;0;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;16;Pelletier;Émilie;Moose Jaw;9;0;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;24;Gagnon;Charles;Prince Albert;9;5;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;22;Cloutier;Alexandre;Vancouver;1;5;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;8;Beaulieu;Laura;Miramichi;4;1;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;4;Beaulieu;François;Gander;10;6;00:00:00;True
+9b1a8e0d-ba81-4e68-a612-d904e497f1d8;21;Tremblay;Laura;Saskatoon;9;5;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;4;Morin;Antoine;Prince Albert;9;3;1:31:54;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;14;Lavoie;Samuel;Trois-Rivières;8;6;1:32:16;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;24;Lavoie;Olivier;Fort Smith;11;9;1:37:50;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;20;Côté;Maxime;Haines Junction;12;8;1:39:56;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;8;Cloutier;Sarah;Summerside;2;2;1:47:2;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;10;Grenier;Gabriel;Toronto;7;1;1:48:23;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;26;Beaulieu;Antoine;Yellowknife;11;3;1:52:30;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;2;Girard;Martin;Kelowna;1;4;2:8:55;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;7;Lévesque;Catherine;Thompson;3;5;2:12:2;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;9;Morin;Émilie;Saint John;4;0;2:13:11;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;15;Beaulieu;François;Ottawa;7;3;2:14:3;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;6;Girard;Martin;Surrey;1;8;2:17:23;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;16;Tremblay;Laura;Vancouver;1;4;2:18:15;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;1;Bouchard;Catherine;Cornwall;2;3;2:19:33;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;3;Lefebvre;Thomas;Dawson City;12;7;2:22:12;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;18;Dubois;Samuel;Cambridge Bay;6;7;2:23:33;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;12;Pelletier;Antoine;Victoria;1;7;2:28:43;False
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;19;Roy;Camille;Edmonton;0;0;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;11;Girard;François;Steinbach;3;8;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;13;Gagnon;Catherine;Moose Jaw;9;1;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;21;Cloutier;Maxime;Stratford;2;3;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;23;Fortin;Catherine;Whitehorse;12;1;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;25;Beaulieu;Marie;Hay River;11;7;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;22;Gagnon;Émilie;Red Deer;0;0;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;5;Gagnon;Isabelle;Charlottetown;2;8;00:00:00;True
+d9bbcf7d-e528-4b59-90a3-889f31a6bc3c;17;Girard;Gabriel;Saskatoon;9;1;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;7;Grenier;Martin;Gander;10;7;2:1:4;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;20;Bergeron;Jean;Stratford;2;8;2:4:12;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;33;Gauthier;Sophie;Whitehorse;12;5;2:4:32;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;28;Girard;Isabelle;Calgary;0;8;2:6:9;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;22;Dubois;Jean;Charlottetown;2;9;2:9:4;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;24;Lefebvre;Charles;Cambridge Bay;6;7;2:33:5;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;15;Beaulieu;Isabelle;Victoria;1;9;2:47:14;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;34;Fortin;Maxime;Haines Junction;12;3;2:54:53;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;21;Martel;Thomas;Inuvik;11;6;2:57:43;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;14;Gagnon;Camille;Ottawa;7;5;3:15:46;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;25;Roy;Sarah;Toronto;7;3;3:18:2;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;12;Beaulieu;Catherine;Rankin Inlet;6;3;3:20:15;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;37;Beaulieu;Maxime;Saint John;4;3;3:20:37;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;32;Côté;Martin;Moncton;4;8;3:26:24;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;11;Grenier;Gabriel;Dartmouth;5;4;3:31:25;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;5;Gauthier;Isabelle;Corner Brook;10;6;3:33:22;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;27;Tremblay;Martin;Montréal;8;2;3:37:51;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;30;Morin;François;Truro;5;6;3:38:12;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;23;Gagnon;Sarah;Sydney;5;2;3:40:16;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;19;Robitaille;Laura;Winnipeg;3;8;3:58:58;False
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;6;Bouchard;Thomas;Brandon;3;8;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;35;Roy;Simon;Fort Smith;11;9;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;3;Pelletier;Thomas;Watson Lake;12;2;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;31;Martel;Sophie;Sherbrooke;8;5;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;2;Cloutier;Charles;St. John's;10;3;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;17;Morin;Thomas;Fredericton;4;3;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;8;Fortin;Samuel;Red Deer;0;1;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;13;Pelletier;Catherine;Trois-Rivières;8;7;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;29;Gauthier;François;Summerside;2;0;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;18;Gauthier;Alexandre;Thompson;3;8;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;36;Gagnon;Olivier;Arviat;6;1;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;10;Roy;Thomas;Moose Jaw;9;8;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;4;Morin;Camille;Québec;8;2;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;1;Grenier;Thomas;Surrey;1;8;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;26;Gauthier;François;Grand Falls-Windsor;10;8;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;9;Roy;François;Edmonton;0;4;00:00:00;True
+6963194b-1a57-49de-9365-f1bd6bcdcbfd;16;Martel;Antoine;Dawson City;12;1;00:00:00;True
